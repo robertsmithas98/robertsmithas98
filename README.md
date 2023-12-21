@@ -9,6 +9,9 @@
 ##
 
 <div>
+
+   ![](https://komarev.com/ghpvc/?username=robertsmithas98&color=blueviolet)
+   
    <a href="https://github.com/robertsmithas98">
     <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robertsmithas98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsmithas98&layout=compact&langs_count=6&theme=dark"/>
