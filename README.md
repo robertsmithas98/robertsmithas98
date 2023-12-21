@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 ## I'm Robert Smith.
 ###
 - ⭐️ Front-End | Back-End
@@ -9,11 +8,13 @@
 
 ##
 
-![](https://komarev.com/ghpvc/?username=robertsmithas98&color=blueviolet)
+<div>
+   <a href="https://github.com/robertsmithas98">
+    <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=robertsmithas98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertsmithas98&layout=compact&langs_count=6&theme=dark"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertsmithas98&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsmithas98&layout=compact&theme=dark)](https://github.com/robertsmithas98/github-readme-stats)
+##
 
 <div style="display: flex, justify-content: space-between, align-itens: center"><br>
   <img align="center" alt="Robert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
